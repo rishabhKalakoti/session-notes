@@ -31,8 +31,12 @@ An optimization problem is a problem of finding the best solution from all feasi
 
 ### Examples
 0-1 knapsack
+
 Matrix Chain Multiplication
+
 LCS
+
 Rod cutting
+
 [https://www.spoj.com/problems/ACODE/](https://www.spoj.com/problems/ACODE/)
 
