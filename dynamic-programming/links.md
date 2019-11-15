@@ -5,6 +5,8 @@
 
 [https://www.topcoder.com/community/competitive-programming/tutorials/dynamic-programming-from-novice-to-advanced/](https://www.topcoder.com/community/competitive-programming/tutorials/dynamic-programming-from-novice-to-advanced/) (with problems)
 
+[https://codeforces.com/blog/entry/325](https://codeforces.com/blog/entry/325)
+
 #### MIT playlist for DP
 
 [https://www.youtube.com/playlist?list=PLcDimPvbmfT8qAxD6JH_kmXiQwTNcoK78](https://www.youtube.com/playlist?list=PLcDimPvbmfT8qAxD6JH_kmXiQwTNcoK78)
